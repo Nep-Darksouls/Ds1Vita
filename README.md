@@ -34,7 +34,9 @@ This repo is the project's showcase: devlogs, screenshots and videos. The only d
 
 ## Videos
 
-- 2026-11-12: 17-minute gameplay demo (Vita3K, PS5 controller), from the Burg through the Catacombs, Anor Londo and Blighttown. *(link coming)*
+[![DS1Vita gameplay demo](https://img.youtube.com/vi/sR8_dW53E9s/maxresdefault.jpg)](https://youtu.be/sR8_dW53E9s)
+
+- [2026-11-12: 17-minute gameplay demo](https://youtu.be/sR8_dW53E9s) (Vita3K, PS5 controller), from the Burg through the Catacombs, Anor Londo and Blighttown.
 
 ## Devlogs
 
